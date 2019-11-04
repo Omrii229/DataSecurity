@@ -4,6 +4,8 @@ __author__ = "Omri Naim"
 #Input: a cipher text
 #Output: plain text 
 
+#Works for linear encryption
+
 letters="abcdefghijklmnopqrstuvwxyz"
 cipher=None
 while cipher is None:
